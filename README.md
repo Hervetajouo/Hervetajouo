@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Hervé Tajouo Tela
-- 👀 I’m interested in Quantum Dynamics of polyatomic molecule  and Molecular Dynamics related to the water molecule.
+- 👀 I’m interested in Quantum Dynamics of polyatomic molecules and Molecular Dynamics related to the water molecule.
 - 🌱 I’m currently learning Fortran,Programming, Python and Machine Learning.
 - 💞️ I’m looking to collaborate on High Performance Computation.
 - 📫 How to reach me Twitter:tajouotela@yahoo.fr, linkedin: Herve Tajouo Tela
